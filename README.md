@@ -11,10 +11,6 @@ A fullscreen Python lock screen that only unlocks when you solve a hilarious cod
 - 🧠 Case- and punctuation-insensitive answers
 - 💻 Tkinter GUI
 
-## 📽 Demo
-
-![Demo](demo.gif)
-
 ## 🚀 Run it
 
 ```bash
