@@ -24,3 +24,11 @@ python -m venv venv
 venv\Scripts\activate  # or source venv/bin/activate
 pip install -r requirements.txt
 python lockscreen.py
+```
+## 📦 Requirements
+
+- Python 3.10+
+- Tkinter (usually built-in)
+
+## 📜 License
+MIT
