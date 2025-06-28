@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does a Python say when it's scared?",
+    "answer": "hiss-terical"
+  },
+  {
+    "question": "Why did the programmer quit his job?",
+    "answer": "Because he didn't get arrays"
+  },
+  {
+    "question": "What’s a function’s favorite dance move?",
+    "answer": "the return"
+  },
+  {
+    "question": "What's a loop's favorite music genre?",
+    "answer": "infinite jazz"
+  },
+  {
+    "question": "What’s the object-oriented way to become wealthy?",
+    "answer": "Inheritance"
+  },
+  {
+    "question": "Why was the JavaScript developer sad?",
+    "answer": "Because he didn’t know how to 'null' his feelings"
+  },
+  {
+    "question": "What did the array say to the linked list?",
+    "answer": "I'm more direct"
+  },
+  {
+    "question": "Why did the Python file go to therapy?",
+    "answer": "Too many unresolved imports"
+  },
+  {
+    "question": "What’s a coder’s favorite pickup line?",
+    "answer": "You had me at Hello World"
+  },
+  {
+    "question": "Why can’t you trust while loops?",
+    "answer": "They might never end"
+  }
+]
